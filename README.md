@@ -46,7 +46,7 @@ The primary goal of this repository is to put all the scattered GRE related mate
 
 
 ## Online Courses
-* [Barron's 800 Essential Word List - GRE](https://www.memrise.com/course/121215/barrons-800-essential-word-list-gre/)
+* [Barron's 800 Essential Word List - GRE](https://www.scribd.com/document/410114401/Barrons-800-High-Frequency-GRE-Word-List-pdf)
 
 
 ## Practice Tests
